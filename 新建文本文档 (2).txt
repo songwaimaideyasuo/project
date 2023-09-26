@@ -1,0 +1,45 @@
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQClcx8GhFs6zPhBlKmsPdq8M7pMZnI1n8fEDwJR70TiYqgRJVwwvvt5t5bUPDXzQMEzfrR0fFlDcYVdtiltYcJkUcDfQtVBlX0Pur9xt6zz4ZniWwfgejm2u1R1oDgMv0aggVFEJMhUSNTcgdNCXiUR1PzPy0CX09esg6NoZWRV3seEVYbdM+hX/+X9SwCG6MsuOYKcPDHWilQk70AqMIJ3qhOCOaACtBCFxXs4aJT8zjam1onHdms/2jfVI8IOdZFHDK8ANOvlnoOZt2JoLnrRnXOu3VkW3lhbT1c+NVF5axN6tWuazl/WwmNwfWEkCjXMbnMlKB4C9NP7K3qLmcrfyPvMcc1kzBqIorGYD/OgEyQne5kD8ycmJTMgXoMnMirwj42hEUUtYU1ksWlbn3kRp6+jZtKO4ds8U6LKuHw1OfiBGF0IvsXgHp3+WJzQoIb59BqyCs4YJ8W/0eqRkAsg6rJuH7ACA4NmteJXMSQDvOr91f72ZYaCbSaTdSG5v+U= 1178347787@qq.com
+
+
+
+".ssh/authorized_keys" E212: Can't open file for writing
+
+
+ssh-keygen -t dsa -P '' -f ~/.ssh/id_dsa
+
+git clone git@songwaimaideyasuo:/home/icloudy/learngit/project.git
+
+git clone git@github.com:songwaimaideyasuo:/home/git/project.git
+
+git clone git@192.168.2.217:/home/git/project.git
+
+git clone git@github.com:songwaimaideyasuo.project.git:/srv/sample.git
+
+
+ssh-keygen -t rsa -C "1178347787@qq.com"
+
+/home/icloudy/srv
+
+sudo chmod 600 .ssh/authorized_keys
+
+cat ~/.ssh/id_rsa.pub >> /authorized_keys
+
+git clone git@192.168.61.130:/home/git/project.git
+
+git clone git@192.168.61.130:/home/git/project.git
+
+git clone git@192.168.61.130:/home/git/gitrepo/test.git
+
+
+scp id_rsa.pub git@192.168.61.130:/home/git/
+
+git@192.168.61.130:/home/git/gitrepo/test.git
+
+git clone git@192.168.2.217:/home/git/gitrepo/test.git
+
+
+192.168.61.130
+
+192.168.2.217
+
+git remote add Linux git@192.168.61.130/git/project.git
